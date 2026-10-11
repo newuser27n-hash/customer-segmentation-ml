@@ -38,4 +38,4 @@ Behavioural features produced stronger internal clustering quality than demograp
 The original dataset's exact source and version have not been confirmed. Cluster profiles describe associations, not causal effects. Spending-related validation must be interpreted carefully when spending variables are also used to construct clusters.
 
 ## Team
-Disha Mishra, Ayush Tanwal, Bhavya Sharma, Kanishka Jain, and Rohit Joshi.
+Disha Srivastava, Ayush Tanwal, Bhavya Sharma, Kanishka Jain, and Rohit Joshi.
