@@ -1,0 +1,11 @@
+Segmentation,Variant,k,n,Silhouette (own space),Davies-Bouldin (own space),ARI vs main
+Demographic,Main specification,3,2232,0.2165853057266162,1.606231897070968,1.0
+Demographic,Duplicate (ex-ID) records removed,3,2050,0.2158319911054225,1.6056825453115102,0.9797843475337751
+Demographic,Rows with missing Income dropped (no imputation),3,2208,0.21627775987223333,1.603477077666633,0.9790942701952386
+Demographic,PCA retaining 95% variance before K-Means,3,2232,0.21658530572613904,1.6062318970709812,1.0
+Behavioural,Main specification,3,2232,0.3187688276823154,1.4337580757746187,1.0
+Behavioural,Duplicate (ex-ID) records removed,3,2050,0.31964317892400096,1.4394438862975625,0.9557922575889815
+Behavioural,Rows with missing Income dropped (no imputation),3,2208,0.31875800339617216,1.4292946778432085,0.996637202424981
+Behavioural,PCA retaining 95% variance before K-Means,3,2232,0.3246956789193572,1.4101446860819422,0.9986527253950012
+Behavioural,Six spend categories (log1p) instead of Total_Spend,3,2232,0.2756531693893128,1.558950984675939,0.7334739079982642
+Demographic,Education excluded,3,2232,0.28246253466121557,1.3148123910864074,0.9157370908143405

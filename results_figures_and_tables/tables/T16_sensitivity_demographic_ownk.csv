@@ -1,0 +1,2 @@
+Segmentation,Silhouette,Davies-Bouldin,Seed ARI (mean),Subsample ARI (mean),Cramers V (Response),eta2 (Total_Spend),ARI vs Behavioural k=3
+Demographic k=8,0.2512955447035964,1.2317315433915335,0.6411763295081496,0.894030533038594,0.23447608225286112,0.47813710537208665,0.1205150561828263

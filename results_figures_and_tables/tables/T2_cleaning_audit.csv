@@ -1,0 +1,4 @@
+,rows_flagged
+Implausible age (> 100 years),3
+"Extreme income (> Tukey 3*IQR fence = 168,179)",1
+Invalid marital status label (Absurd/YOLO),4
